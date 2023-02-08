@@ -1,21 +1,3 @@
-
-<!--
- * @Author: Ki.
- * @Date: 2022-12-21 07:35:43
- * @LastEditors: Ki.
- * @LastEditTime: 2022-12-21 07:51:06
- * @Description: 花有重开日 人无再少年
- * Copyright (c) 2022 by Ki All Rights Reserved. 
--->
-
-<!-- Like Girl v5.0.0 -->
-<!-- Copyright (c) 2022 Ki. -->
-<!-- Date：2022-09-10 -->
-<!-- Document：https://blog.kikiw.cn/index.php/archives/46/ -->
-<!-- Warning：禁止以任何方式出售本项目 如有发现一切后果自行负责 -->
-<!-- 开发不易 版权信息请保留 -->
-
-
 <?php
 include($_SERVER['DOCUMENT_ROOT'] . '/ipjc.php');
 error_reporting(0);
@@ -275,7 +257,7 @@ $adminpw = "love";
                 <li class="side-nav-item">
                     <a href="/admin/Like_Girl.php" class="side-nav-link">
                         <i class="dripicons-information"></i>
-                        <span> 关于Like Girl</span>
+                        <span> 关于</span>
                         <span class="menu-arrow"></span>
                     </a>
                 </li>
@@ -288,9 +270,9 @@ $adminpw = "love";
                     <i class="mdi mdi-close"></i>
                 </a>
                 <img src="assets/images/help-icon.svg" height="90" alt="Helper Icon Image"/>
-                <h5 class="mt-3">Like_Girl V5.0.0</h5>
+                <h5 class="mt-3">Like_Girl</h5>
                 <p class="mb-3">花有重开日 人无再少年</p>
-                <a href="https://www.kikiw.cn/" target="_blank" class="btn btn-outline-primary btn-sm">欢迎使用_Ki.</a>
+                <a href="https://github.com/chenyoioi/LikeGirl-/" target="_blank" class="btn btn-outline-primary btn-sm">欢迎使用</a>
             </div>
             <!-- end Help Box -->
             <!-- End Sidebar -->
